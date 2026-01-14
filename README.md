@@ -18,8 +18,10 @@ Supply Chain Operations II Control Tower Visibility II Data & MIS Analytics II P
 📞 <strong>+91-7309906413</strong>
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/aryanagendra72/">LinkedIn</a> •
-<a href="mailto:kumarnagendra450@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/aryanagendra72/">LinkedIn</a> I
+<a href="mailto:kumarnagendra450@gmail.com">Email</a> I
+<a href="https://x.com/arya_nagendra">Twitter</a> I
+<a href="https://www.youtube.com/@nagendraarya7350">YouTube</a> I
 </p>
 </p>
 
