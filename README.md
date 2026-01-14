@@ -8,8 +8,8 @@ Supply Chain Operations • Control Tower Visibility • Data & MIS Analytics
 
 <p align="center">
 📍 Delhi NCR, India &nbsp; | &nbsp;
-📧 <strong>kumarnagexxxxxx0@gmail.com</strong> &nbsp; | &nbsp;
-📞 <strong>+91-730990xxxx</strong>
+📧 <strong>kumarnagendra4500@gmail.com</strong> &nbsp; | &nbsp;
+📞 <strong>+91-7309906413</strong>
 </p>
 
 <p align="center">
