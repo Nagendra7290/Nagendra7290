@@ -11,21 +11,22 @@
 Sr. Control Tower Executive – Operations (SCM)<br>
 Supply Chain Operations • Control Tower Visibility • Data & MIS Analytics
 </h3>
+<p align="left">
+📍 Delhi NCR, India &nbsp; | &nbsp;
+📧 <strong>kumarnagendra4500@gmail.com</strong> &nbsp; | &nbsp;
+📞 <strong>+91-7309906413</strong>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/aryanagendra72/">LinkedIn</a> •
+<a href="mailto:kumarnagendra450@gmail.com">Email</a>
+</p>
 </p>
 
 <!-- Profile Picture -->
 
 
-<p align="center">
-📍 Delhi NCR, India &nbsp; | &nbsp;
-📧 <strong>kumarnagendra4500@gmail.com</strong> &nbsp; | &nbsp;
-📞 <strong>+91-7309906413</strong>
-</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aryanagendra72/">LinkedIn</a> •
-<a href="mailto:kumarnagendra450@gmail.com">Email</a>
-</p>
+
 
 ---
 
