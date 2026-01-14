@@ -53,10 +53,9 @@ Recognized for strong **cross-functional collaboration**, real-time **exception 
 - Locus Application (Live logistics & rider tracking)
 
 ### 🖥️ Productivity Tools
-- MS Word  
-- PowerPoint  
-- Excel  
-
+- **MS Word** – Used for creating structured documentation, SOPs, reports, and professional business communication  
+- **PowerPoint** – Developed management presentations, dashboards, and performance review decks with clear visual storytelling  
+- **Excel** – Performed advanced data analysis, MIS reporting, KPI tracking, Pivot Tables, formulas, and operational dashboards
 ---
 
 ## 💼 Professional Experience
