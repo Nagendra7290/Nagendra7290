@@ -1,6 +1,6 @@
 <!-- Profile Banner Image -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-username/main/banner.pn](https://github.com/Nagendra7290/Nagendra7290/blob/main/scm-banner-web-icon-vector-260nw-2588636793.webp)" alt="Supply Chain Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.pn](https://github.com/Nagendra7290/Nagendra7290/blob/main/scm-banner-web-icon-vector-260nw-2588636793.webp" alt="Supply Chain Banner" width="100%" />
 
   <p align="right">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%"  />
