@@ -22,7 +22,7 @@ Supply Chain Operations • Control Tower Visibility • Data & MIS Analytics
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/aryanagendra72/">LinkedIn</a> •
 <a href="mailto:kumarnagendra450@gmail.com">Email</a>
 </p>
 
