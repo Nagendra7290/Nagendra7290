@@ -1,10 +1,20 @@
+<!-- Profile Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Supply Chain Banner" width="100%" />
 
-<h1 align="center">Nagendra Arya</h1>
+  <p align="right">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" align="right" />
+</p>
+<h1 align="left">Nagendra Arya</h1>
 
-<h3 align="center">
+<h3 align="left">
 Sr. Control Tower Executive – Operations (SCM)<br>
 Supply Chain Operations • Control Tower Visibility • Data & MIS Analytics
 </h3>
+</p>
+
+<!-- Profile Picture -->
+
 
 <p align="center">
 📍 Delhi NCR, India &nbsp; | &nbsp;
