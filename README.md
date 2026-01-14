@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Supply Chain Banner" width="100%" />
 
   <p align="right">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" align="right" />
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%"  />
 </p>
 <h1 align="left">Nagendra Arya</h1>
 
