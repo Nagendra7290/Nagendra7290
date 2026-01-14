@@ -9,7 +9,7 @@
 
 <h3 align="left">
 Sr. Control Tower Executive – Operations (SCM)<br>
-Supply Chain Operations • Control Tower Visibility • Data & MIS Analytics
+Supply Chain Operations II Control Tower Visibility II Data & MIS Analytics II Power Bi & Tablaue 
 </h3>
 <p align="left">
 📍 Delhi NCR, India &nbsp; | &nbsp;
