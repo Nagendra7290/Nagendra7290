@@ -1,12 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Supply Chain | Control Tower | Operations Analytics" width="100%">
-</p>
-
-<!-- ===================== PROFILE IMAGE ===================== -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="170" style="border-radius:50%">
-</p>
 
 <h1 align="center">Nagendra Kumar</h1>
 
