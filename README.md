@@ -7,8 +7,10 @@
 </p>
 <h1 align="left">Nagendra Arya</h1>
 
-<h3 align="left">
+<h2 align="left">
 Sr. Control Tower Executive – Operations (SCM)<br>
+</h2>
+<h3 align="left">
 Supply Chain Operations II Control Tower Visibility II Data & MIS Analytics II Power Bi & Tablaue 
 </h3>
 <p align="left">
