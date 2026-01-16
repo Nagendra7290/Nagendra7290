@@ -1,12 +1,8 @@
 <!-- Profile Banner Image -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-username/main/banner.pn](https://github.com/Nagendra7290/Nagendra7290/blob/main/scm-banner-web-icon-vector-260nw-2588636793.webp](https://github.com/Nagendra7290/Nagendra7290/blob/main/artificial-intelligence-concept-twitch-banner_23-2150389746.avif)" alt="Supply Chain Banner" width="100%" />
-
-  <p align="right">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%"  />
+  <img src="https://github.com/Nagendra7290/Nagendra7290/blob/main/images%20(1).jpg" width="100%" />
+  <h1 align="left">Nagendra Arya</h1>
 </p>
-<h1 align="left">Nagendra Arya</h1>
-
 <h3 align="left">
 Sr. Control Tower Executive – Operations (SCM)<br>
 
