@@ -1,6 +1,6 @@
 <!-- Profile Banner Image -->
 <p align="center">
-  <img src="https://github.com/Nagendra7290/Nagendra7290/commit/7df6ba69c462b6a0d16b1ec5b2c425872c362354" width="100%" />
+  <img src="https://github.com/Nagendra7290/Nagendra7290/blob/main/images%20(3).jpg" width="100%" />
   <h1 align="left">Nagendra Arya</h1>
 </p>
 <h3 align="left">
