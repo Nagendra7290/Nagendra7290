@@ -43,29 +43,21 @@ I specialize in driving **SLA adherence, TAT improvement, inventory accuracy, an
 - Root Cause Analysis (RCA) & Exception Management  
 - Process Improvement & Operational Automation  
 - Vendor, Logistics & Stakeholder Coordination  
-
 ---
-
 ## 🛠️ Technical & Analytical Skills
 
 ### 📊 Data Analytics & Reporting
-- **Microsoft Excel** – Advanced formulas, Pivot Tables, Lookups, Dashboards  
-- **Google Sheets & Forms** – Automated workflows & reporting  
+- **Microsoft Excel** – Advanced formulas, Pivot Tables, Lookups, Dashboards, MIS & KPI Dashboards 
+- **Google Sheets & Forms** – Automated workflows & reporting, Live logistics & rider tracking
 - **Power BI** – KPI dashboards & data visualization  
 - **SQL** – Operational & analytical queries  
 - **MySQL / phpMyAdmin** – Basic database handling  
-
-### ⚙️ Systems & Tools
-- MIS & KPI Dashboards  
-- **Locus Application** – Live logistics & rider tracking  
 
 ### 🖥️ Documentation & Productivity
 - **MS Word** – SOPs, reports & structured documentation  
 - **PowerPoint** – Management decks & performance reviews  
 - **Excel Automation** – MIS, KPI tracking & operational analysis  
-
 ---
-
 ## 📂 GitHub Portfolio Focus
 This GitHub profile highlights **real-world supply chain and analytics use cases**, including:
 
@@ -76,17 +68,6 @@ This GitHub profile highlights **real-world supply chain and analytics use cases
 - ⚙️ **Process Improvement & Automation Concepts**  
 
 > Each project reflects **practical operations experience**, **data-driven decision making**, and **continuous improvement mindset**.
-
----
-
-## 🎯 Career Objective
-Actively seeking opportunities in:
-- Supply Chain Operations  
-- Control Tower & SCM Analytics  
-- Operations Excellence & MIS  
-- Data-Driven Process Optimization  
-
----
 
 ⭐ **This GitHub portfolio represents my operational expertise, analytical mindset, and commitment to excellence in supply chain management.**
 
