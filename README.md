@@ -32,11 +32,6 @@
 <a href="https://kaggle.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<!-- Google (Google+) -->
-<a href="https://plus.google.com/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/Google+-DB4437?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-
 <!-- Pinterest -->
 <a href="https://in.pinterest.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
