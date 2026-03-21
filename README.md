@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Nagendra7290/Nagendra7290/blob/main/coverPic.jpg" width="100%" />
 </p>
-<h1 align="left">Hi 👋, I'm Nagendra Arya</h1>
+<h1 align="left">Hello , I'm Nagendra Arya</h1>
 <h3 align="left">Sr. Control Tower Executive – Supply Chain Operations</h3>
 
 <p align="left">
@@ -24,6 +24,15 @@
 <a href="https://www.youtube.com/@nagendraarya7350" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+  <!-- Portfolio Website -->
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+  <!-- Kaggle -->
+<a href="https://kaggle.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
 </p>
 
 ---
