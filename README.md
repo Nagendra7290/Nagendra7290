@@ -32,6 +32,15 @@
 <a href="https://kaggle.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+<!-- Google (Google+) -->
+<a href="https://plus.google.com/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Google+-DB4437?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<!-- Pinterest -->
+<a href="https://in.pinterest.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
 
 </p>
 
@@ -61,48 +70,6 @@ I specialize in driving **SLA adherence, TAT improvement, inventory accuracy, an
 - **Power BI** – KPI dashboards & data visualization  
 - **SQL** – Operational & analytical queries  
 - **MySQL / phpMyAdmin** – Basic database handling
-
-### 💻 Programming & Data Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-
-### 📊 Data Visualization & BI Tools
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Data%20Studio-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-### 📦 Data Analysis Libraries
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-### ⚙️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-### 📈 Domain Skills (Important for You)
-<img src="https://img.shields.io/badge/Supply%20Chain-Analysis-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Logistics-Operations-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI-Tracking-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-Dashboarding-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-Data%20Processing-red?style=for-the-badge"/>
-
-## 🚀 Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/KPI-Tracking-green?style=for-the-badge"/>
 
 ### 🖥️ Documentation & Productivity
 - **MS Word** – SOPs, reports & structured documentation  
