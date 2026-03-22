@@ -78,7 +78,14 @@ This GitHub profile highlights **real-world supply chain and analytics use cases
 - 🔄 **MIS & Operational Reporting Automation**  
 - 🧮 **SQL Analysis** for Logistics, Inventory & Delivery Performance  
 - 📦 **Inventory Aging & Demand Planning Models**  
-- ⚙️ **Process Improvement & Automation Concepts**  
+- ⚙️ **Process Improvement & Automation Concepts**
+  
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/aryanagendra72/
+* Email: kumarnagendra450@gmail.com
+
+
 
 > Each project reflects **practical operations experience**, **data-driven decision making**, and **continuous improvement mindset**.
 
