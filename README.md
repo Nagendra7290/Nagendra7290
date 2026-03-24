@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
   <!-- Kaggle -->
-<a href="https://kaggle.com/your-username" target="_blank">
+<a href="https://www.kaggle.com/nagendraarya" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 <!-- Pinterest -->
