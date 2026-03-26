@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Nagendra7290/Nagendra7290/blob/main/coverPic.jpg" width="100%" />
+  <img src="https://github.com/Nagendra7290/Nagendra7290/blob/main/assets/images/Screenshot%202026-03-26%20123242.png" width="100%" />
 </p>
 <h1 align="left">Hello , I'm Nagendra Arya</h1>
 <h3 align="left">Sr. Control Tower Executive I Supply Chain Operations I Supply Chain Analysis</h3>
