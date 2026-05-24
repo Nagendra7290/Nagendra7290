@@ -8,7 +8,7 @@
 <p align="left">
 📍 Delhi NCR, India &nbsp; | &nbsp;
 📧 <a href="mailto:kumarnagendra450@gmail.com">kumarnagendra450@gmail.com</a> &nbsp; | &nbsp;
-📞 +91-7309906413
+📞 +91-73099064XX
 </p>
 
 <p align="left">
